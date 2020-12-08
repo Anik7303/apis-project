@@ -1,0 +1,16 @@
+# vscode local configs
+/.vscode
+
+# node module files
+/node_modules
+
+# environment variables
+.env*
+
+# private keys (development)
+/keys/dev.js
+
+# misc
+debug.log*
+package-lock.json
+
